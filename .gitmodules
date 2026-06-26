@@ -1,0 +1,6 @@
+[submodule "tools/ghidra-mcp"]
+	path = tools/ghidra-mcp
+	url = https://github.com/bethington/ghidra-mcp
+[submodule "tools/ghidra"]
+	path = tools/ghidra
+	url = https://github.com/NationalSecurityAgency/ghidra
